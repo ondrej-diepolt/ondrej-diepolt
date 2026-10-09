@@ -1,4 +1,4 @@
-## Hi, I'm Ondřej 👋
+## Hi
 Software engineering student based in Prague.
 
 **Education**
