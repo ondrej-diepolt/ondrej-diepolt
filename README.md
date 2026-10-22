@@ -1,4 +1,4 @@
-## Hi
+
 Software engineering student based in Prague.
 
 **Education**
